@@ -1,5 +1,7 @@
 # Travel Data
 
+### [Click here for live preview](https://traveldata.netlify.app/)
+
 ![Travel Data](https://i.ibb.co/qph2cZn/image.pngg)
 
 ## Getting Started with Create React App
